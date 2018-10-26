@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class E3 {
     public static void main(String[] args) {
        Scanner entrada = new Scanner(System.in);
-       int a,b; 
+       int a,b;
        a = 6;
        b = 8;
         System.out.println("Indicar cual es el mayor:" + 8);
